@@ -35,6 +35,7 @@ const About = () => (
         <h1>Technologies I have experience with:</h1>
         <ul>
           <li>Javascript</li>
+          <li>Typescript</li>
           <li>Node.js</li>
           <li>ExpressJS</li>
           <li>React</li>
