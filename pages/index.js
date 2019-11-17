@@ -16,7 +16,7 @@ const Index = () => (
       <p className="md:max-w-xl text-xl leading-normal font-light">
         I'm a software engineer with experience in full-stack web development
         based out of Portland, Oregon. Currently, I'm the CTO of{" "}
-        <a href="https://vreps.us">Virtual Repetitions</a>
+        <a href="https://vreps.us">Virtual Repetitions</a>.
       </p>
     </main>
   </Container>
