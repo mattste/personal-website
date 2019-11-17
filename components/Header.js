@@ -9,6 +9,9 @@ const Header = ({ className = "" }) => (
       <Link href="/about">
         <a className="mr-6">About</a>
       </Link>
+      <Link href="/knowledge-base">
+        <a className="mr-6">KB</a>
+      </Link>
       <Link href="/contact">
         <a>Contact</a>
       </Link>
