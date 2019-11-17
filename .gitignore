@@ -1,0 +1,10 @@
+.git
+
+# Build directories
+.next
+
+# deps
+node_modules
+
+# Ignore system files
+.DS_store
