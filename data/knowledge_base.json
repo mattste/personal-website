@@ -1,0 +1,423 @@
+{
+  "blogPosts": [
+    {
+      "url": "http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts",
+      "title": "Mocks and Explicit Contracts"
+    },
+    {
+      "url": "https://www.cockroachlabs.com/blog/how-we-built-a-vectorized-sql-engine",
+      "title": "How We Built a Vectorized SQL Engine - Cockroach Labs"
+    },
+    {
+      "url": "http://udayv.com/clojurescript/clojure/2016/04/28/datascript101",
+      "title": "Datascript 101 · verma/blog"
+    },
+    {
+      "url": "https://kasvith.github.io/posts/lets-create-a-simple-lb-go",
+      "title": "Let's Create a Simple Load Balancer With Go"
+    },
+    {
+      "url": "https://www.figma.com/blog/how-figmas-multiplayer-technology-works",
+      "title": "How Figma’s multiplayer technology works"
+    },
+    {
+      "url": "https://segment.com/blog/introducing-centrifuge",
+      "title": "Centrifuge: a reliable system for delivering billions of events per day"
+    },
+    {
+      "url": "https://segment.com/blog/the-10m-engineering-problem",
+      "title": "The $10m engineering problem"
+    },
+    {
+      "url": "https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service",
+      "title": "Books, an immutable double-entry accounting database service"
+    },
+    {
+      "url": "http://blog.plataformatec.com.br/2012/06/why-your-web-framework-should-not-adopt-rack-api",
+      "title": "Why your web framework should not adopt Rack API"
+    },
+    {
+      "url": "https://hacks.mozilla.org/2019/08/webassembly-interface-types",
+      "title": "WebAssembly Interface Types: Interoperate with All the Things!"
+    },
+    {
+      "url": "https://ruslanspivak.com/lsbaws-part2",
+      "title": "Let’s Build A Web Server. Part 2."
+    },
+    {
+      "url": "http://renderedtext.com/blog/2015/11/18/closures-are-not-magic",
+      "title": "Closures are not magic"
+    },
+    {
+      "url": "https://atscaleconference.com/videos/cadence-microservice-architecture-beyond-requestreply",
+      "title": "Cadence: Microservice architecture beyond request/reply"
+    },
+    {
+      "url": "http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html",
+      "title": "What We Talk About When We Talk About Distributed Systems"
+    },
+    {
+      "url": "https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right",
+      "title": "Database migrations done right"
+    },
+    {
+      "url": "https://spring.io/blog/2016/05/31/zero-downtime-deployment-with-a-database",
+      "title": "Zero Downtime Deployment with a Database"
+    },
+    {
+      "url": "https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this",
+      "title": "Understanding JavaScript Function Invocation and 'this'"
+    },
+    {
+      "url": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules",
+      "title": "Tasks, microtasks, queues and schedules"
+    },
+    {
+      "url": "http://engineering.khanacademy.org/posts/python-refactor-3.htm",
+      "title": "Untangling our Python Code"
+    },
+    {
+      "url": "https://robotlolita.me/articles/2015/how-do-promises-work",
+      "title": "How do Promises Work?"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.g518e3c87f_4_0",
+      "title": "HTTP/2 is here, let's optimize!"
+    },
+    {
+      "url": "https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt",
+      "title": "To OT or CRDT, that is the question"
+    }
+  ],
+  "books": [
+    {
+      "title": "Programming Computer Vision with Python",
+      "url": "http://programmingcomputervision.com/"
+    },
+    {
+      "title": "Programming Phoenix",
+      "url": "https://pragprog.com/book/phoenix14/programming-phoenix-1-4"
+    },
+    {
+      "title": "Flask Book",
+      "url": "https://flaskbook.com/"
+    }
+  ],
+  "videos": [
+    { "url": "https://youtu.be/yTkzNHF6rMs", "title": "Boundaries" },
+
+    { "url": "https://youtu.be/npOGOmkxuio", "title": "Rules" },
+
+    {
+      "url": "https://www.youtube.com/watch?v=hgDCg3QdZgU&list=PLHiuN2KDn0H2Pt5vWbFIZriEgqpCaR4cH",
+      "title": "Modular Design in Elixir"
+    },
+
+    {
+      "url": "https://youtu.be/lg7M0h9eoug",
+      "title": "Building Resilient Systems with Stacking"
+    },
+
+    {
+      "url": "https://youtu.be/CGpMlWVcHok",
+      "title": "Building a Custom React Renderer"
+    },
+
+    {
+      "url": "https://youtu.be/lBaDmsFTJxY",
+      "title": "Writing an Ecto Adapter Introducing MyXQL"
+    },
+
+    {
+      "url": "https://youtu.be/nLApFANtkHs",
+      "title": "Docker and OTP Friends or Foes"
+    },
+
+    {
+      "url": "https://youtu.be/1QNxLNMq3Uw",
+      "title": "Introducing Scenic A Functional UI Framework"
+    },
+
+    { "url": "https://youtu.be/YQxopjai0CU", "title": "Thinking In Ecto" },
+
+    {
+      "url": "https://youtu.be/UcqRXTriUVI",
+      "title": "React Native's New Architecture"
+    },
+
+    {
+      "url": "https://youtu.be/GTP0llRvEmE",
+      "title": "Let Business Write Business Logic"
+    },
+
+    {
+      "url": "https://youtu.be/V-QO-KO90iQ",
+      "title": "React Today and Tomorrow"
+    },
+
+    {
+      "url": "https://youtu.be/ByBPyMBTzM0",
+      "title": "Concurrent Rendering in React"
+    },
+
+    {
+      "url": "https://youtu.be/wXLf18DsV-I",
+      "title": "Cleaner React With Hooks"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=fHQ1WSx41CA",
+      "title": "Building (And Re-Building) the Airbnb Design System"
+    },
+
+    {
+      "url": "https://www.dotconferences.com/2019/12/james-long-crdts-for-mortals",
+      "title": "CRDTs for Mortals"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=coFIEH3vXPw",
+      "title": "Run containers on bare metal already!"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=fHQ1WSx41CA",
+      "title": "Building (And Re-Building) the Airbnb Design System"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=gCWtkvDQ2ZI",
+      "title": "Unison: a new distributed programming language"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=CMB6AlE1QuI",
+      "title": "Rust, WebAssembly, and the future of Serverless by Steve Klabnik"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=tpo3JUyVIjQ",
+      "title": "ElixirConf 2019 - Contracts for Building Reliable Systems"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=47VOcGGm6aU&t=2s",
+      "title": "From Monorail to Monorepo: Airbnb's journey into microservices"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=y5Z5a6QdA-M",
+      "title": "RailsConf 2019 - Rethinking the View Layer with Components"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=Nz-aU3vOFbw",
+      "title": "The 30-Month Migration by Glenn Vanderburg"
+    },
+
+    {
+      "url": "https://www.youtube.com/playlist?list=PL3m89j0mV0pdNAg6x9oq6S8Qz_4C-yuwj",
+      "title": "On Writing Software Well"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=93MA0VUWP9w",
+      "title": "How WhatsApp moved 1.5B users across data centers"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=UTKIT6STSVM",
+      "title": "How Netflix Thinks of DevOps"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=pW-SOdj4Kkk",
+      "title": "Preventing the Collapse of Civilization"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=t46L9RKmlNo",
+      "title": "Lessons From Our First Trillion Messages with Flow"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=P89N1YJBjpA",
+      "title": "ZenMonitor: Scaling Distributed Monitoring at Discord"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=r7tFvmFDbZE",
+      "title": "Breaking Down the User Monolith"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=Il9ZVemPj4A",
+      "title": "Simple is Beautiful Building an SLA Monitoring"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=AiJ8tRRH0f8",
+      "title": "Simply React"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=W7UkLNZva1o",
+      "title": "Efficient data loading in Elixir using the deferrable pattern - build super fast GraphQL resolvers"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=HNiFiLVg20k",
+      "title": "Reactive Programming with Diff and Patch #YOWLambdaJam"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=oTcDmnAXZ4E",
+      "title": "Immutable Application Architecture"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=gFFDgjVQLt4",
+      "title": "Hooking up the new virtual machine"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=HctYHe-YjnE",
+      "title": "In Relentless Pursuit of REST by Derek Prior"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=-J8YyfrSwTk",
+      "title": "Effective ML"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=P7dTPoxCg4w",
+      "title": "Making Unreasonable States Impossible"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=8rRzESy0X2k",
+      "title": "Production Rules on Databases"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=QJVdcIlqGwc",
+      "title": "Manage side-effects efficiently with Redux Saga"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=y_b6RTes83c",
+      "title": "Discovering Processes"
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "The EmberMap Podcast",
+      "url": "https://overcast.fm/itunes1288274408/the-embermap-podcast"
+    },
+    {
+      "title": "This Week in Startups",
+      "url": "https://overcast.fm/itunes315114957/this-week-in-startups-audio"
+    },
+    {
+      "title": "Acquired",
+      "url": "https://overcast.fm/itunes1050462261/acquired"
+    },
+    {
+      "title": "The Art of Product",
+      "url": "https://overcast.fm/itunes1243627144/the-art-of-product"
+    },
+    {
+      "title": "The Changelog",
+      "url": "https://overcast.fm/itunes341623264/the-changelog"
+    },
+    {
+      "title": "Elixir Fountain",
+      "url": "https://overcast.fm/itunes1039942918/elixir-fountain"
+    },
+    {
+      "title": "Elixir Mix",
+      "url": "https://overcast.fm/itunes1379029137/elixir-mix"
+    },
+    {
+      "title": "Elixir Outlaws",
+      "url": "https://overcast.fm/itunes1372617417/elixir-outlaws"
+    },
+    {
+      "title": "Elixir Talk",
+      "url": "https://overcast.fm/itunes1298287048/elixir-talk"
+    },
+    {
+      "title": "Exponent",
+      "url": "https://overcast.fm/itunes826420969/exponent"
+    },
+    {
+      "title": "The Ezra Klein Show",
+      "url": "https://overcast.fm/itunes1081584611/the-ezra-klein-show"
+    },
+    {
+      "title": "Freakonomics Radio",
+      "url": "https://overcast.fm/itunes354668519/freakonomics-radio"
+    },
+    {
+      "title": "Full Stack Radio",
+      "url": "https://overcast.fm/itunes931714873/full-stack-radio"
+    },
+    {
+      "title": "How I Built This with Guy Raz",
+      "url": "https://overcast.fm/itunes1150510297/how-i-built-this-with-guy-raz"
+    },
+    {
+      "title": "The Indicator from Planet Money",
+      "url": "https://overcast.fm/itunes1320118593/the-indicator-from-planet-money"
+    },
+    {
+      "title": "Maintainable",
+      "url": "https://overcast.fm/itunes1459893010/maintainable"
+    },
+    {
+      "title": "Mobycast",
+      "url": "https://overcast.fm/itunes1365791129/mobycast"
+    },
+    {
+      "title": "Planet Money",
+      "url": "https://overcast.fm/itunes290783428/planet-money"
+    },
+    {
+      "title": "The Pitch",
+      "url": "https://overcast.fm/itunes1008577710/the-pitch"
+    },
+    {
+      "title": "Reason Town",
+      "url": "https://overcast.fm/itunes1333705038/reason-town"
+    },
+    {
+      "title": "React Podcast",
+      "url": "https://overcast.fm/itunes1341969432/react-podcast"
+    },
+    {
+      "title": "Software Engineering Daily",
+      "url": "https://overcast.fm/itunes1019576853/software-engineering-daily"
+    },
+    {
+      "title": "Startups For the Rest of Us",
+      "url": "https://overcast.fm/itunes366931951/startups-for-the-rest-of-us"
+    },
+    {
+      "title": "Y Combinator",
+      "url": "https://overcast.fm/itunes1236907421/y-combinator"
+    },
+    {
+      "title": "To Be Continuous",
+      "url": "https://overcast.fm/itunes1107185328/to-be-continuous"
+    },
+    {
+      "title": "Syntax - Tasty Web Development Treats",
+      "url": "https://overcast.fm/itunes1253186678/syntax-tasty-web-development-treats"
+    },
+    {
+      "title": "Swift by Sundell",
+      "url": "https://overcast.fm/itunes1267161825/swift-by-sundell"
+    }
+  ]
+}
