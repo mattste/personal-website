@@ -3,3 +3,24 @@
 /* purgecss end ignore */
 @tailwind components;
 @tailwind utilities;
+
+body {
+  @apply text-gray-300;
+}
+
+p {
+  @apply leading-relaxed;
+}
+
+a {
+  @apply underline;
+  text-decoration-color: theme("colors.teal");
+}
+
+a:hover {
+  @apply bg-teal;
+}
+
+ul.col-2 {
+  column-count: 2;
+}
