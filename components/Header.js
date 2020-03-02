@@ -12,9 +12,6 @@ const Header = ({ className = "" }) => (
       <Link href="/knowledge-base">
         <a className="mr-6 no-underline">KB</a>
       </Link>
-      <Link href="/contact">
-        <a className="no-underline">Contact</a>
-      </Link>
     </nav>
   </div>
 );

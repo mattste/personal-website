@@ -18,6 +18,24 @@ const Index = () => (
         based out of Portland, Oregon. Currently, I'm the CTO of{" "}
         <a href="https://vreps.us">Virtual Repetitions</a>.
       </p>
+      <section className="mt-10 flex">
+        <a href="https://twitter.com/matt_stewart_" className="mr-4">
+          <img
+            src="/icons/twitter-logo-white.svg"
+            alt="twitter logo"
+            width="30"
+            height="30"
+          />
+        </a>
+        <a href="mailto:mattdste@gmail.com">
+          <img
+            src="/icons/email-logo-white.svg"
+            alt="email logo"
+            width="30"
+            height="30"
+          />
+        </a>
+      </section>
     </main>
   </Container>
 );
