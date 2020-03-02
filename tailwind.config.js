@@ -21,7 +21,11 @@ module.exports = {
       "13xl": "11rem",
       "14xl": "12rem"
     },
-    extend: {}
+    extend: {
+      colors: {
+        teal: "#34A08C"
+      }
+    }
   },
   variants: {},
   plugins: []

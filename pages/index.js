@@ -7,8 +7,8 @@ const Index = () => (
   <Container>
     <main className="flex-auto flex flex-col justify-end">
       <div className="mb-10">
-        <h1 className="text-6xl md:text-11xl text-white-500">Hello,</h1>
-        <h1 className="text-6xl md:text-11xl lg:text-14xl font-bold text-white-500">
+        <h1 className="text-6xl md:text-11xl text-teal">Hello,</h1>
+        <h1 className="text-6xl md:text-11xl lg:text-14xl font-bold text-teal">
           I'm Matt.
         </h1>
       </div>
