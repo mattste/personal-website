@@ -27,10 +27,18 @@ const Index = () => (
             height="30"
           />
         </a>
-        <a href="mailto:mattdste@gmail.com">
+        <a href="mailto:mattdste@gmail.com" className="mr-4">
           <img
             src="/icons/email-logo-white.svg"
             alt="email logo"
+            width="30"
+            height="30"
+          />
+        </a>
+        <a href="https://github.com/mattste">
+          <img
+            src="/icons/github-logo-white.png"
+            alt="github logo"
             width="30"
             height="30"
           />
