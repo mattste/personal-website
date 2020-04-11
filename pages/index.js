@@ -27,7 +27,7 @@ const Index = () => (
             height="30"
           />
         </a>
-        <a href="mailto:mattdste@gmail.com" className="mr-4">
+        <a href="mailto:matt@mattste.com" className="mr-4">
           <img
             src="/icons/email-logo-white.svg"
             alt="email logo"
