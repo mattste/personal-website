@@ -42,6 +42,7 @@ const About = () => (
               <li className="mr-8">Typescript</li>
               <li className="mr-8">Node.js</li>
               <li className="mr-8">ExpressJS</li>
+              <li className="mr-8">GraphQL</li>
               <li className="mr-8">React</li>
               <li className="mr-8">Redux</li>
               <li className="mr-8">C++</li>
